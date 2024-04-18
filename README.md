@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**protik-das-utso/protik-das-utso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! I'm a full-stack web developer specializing in Django, and here you'll find some of the projects and code I've been working on.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 About Me
+
+I'm passionate about building scalable and efficient web applications using Django and related technologies. Check out my projects to see what I've been up to!
+
+#### 🛠️ Technologies & Tools
+
+- Python
+- Django
+- HTML/CSS/JavaScript
+- React
+- PostgreSQL
+- Git
+
+#### 📫 Get in Touch
+
+Feel free to reach out if you have any questions or just want to connect!
+
+- LinkedIn https://www.linkedin.com/in/protik-das-utso/
+- Email: your.email@example.com
+
+Happy coding! 🚀
