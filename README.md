@@ -21,6 +21,6 @@ I'm passionate about building scalable and efficient web applications using Djan
 Feel free to reach out if you have any questions or just want to connect!
 
 - LinkedIn https://www.linkedin.com/in/protik-das-utso/
-- Email: your.email@example.com
+- Email: protikdas018830@gmail.com
 
 Happy coding! 🚀
